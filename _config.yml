@@ -1,3 +1,4 @@
-title: "Posts and Stuff"
+title: "Matheus Baptistella"
 description: "Test"
 permalink: /:year/:month/:day/:title/
+baseurl: "/blog"
