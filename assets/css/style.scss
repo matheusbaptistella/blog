@@ -1,18 +1,8 @@
 ---
 ---
 
+$body-background-color: #121212;
+$text-color: #f5f1e6;
+$link-color: #ffd54f;
+
 @import "{{ site.theme }}";
-
-body {
-  background-color: #121212;
-  color: #f5f1e6;
-}
-
-a {
-  color: #ffd54f;
-}
-
-.site-header {
-  background-color: #121212;
-  border-bottom: 1px solid #333;
-}
