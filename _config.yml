@@ -2,7 +2,4 @@ title: "Matheus Baptistella"
 description: "Test"
 permalink: /:year/:month/:day/:title/
 baseurl: "/blog"
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: pages-themes/midnight
+theme: minima
